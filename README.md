@@ -1,0 +1,1 @@
+# ngx-barcode-qrcode-sdk
